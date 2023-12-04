@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "553869948822",
+    "project_id": "fir-demo-chat-76573",
+    "storage_bucket": "fir-demo-chat-76573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553869948822:android:53257b4382346387498fb7",
+        "android_client_info": {
+          "package_name": "com.long.firebase_demo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553869948822-vpfnaj9jm8beld4kqgk2tm7bgrj8d0a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.long.firebase_demo.chat",
+            "certificate_hash": "5c19b19e3b02342390b368c29db2121691d3811c"
+          }
+        },
+        {
+          "client_id": "553869948822-fnkp25ml22hb7ecrkjj01e3s5vd9a0ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85CXn-P8MfuHMDT5BPdQlNRCvB2AYGLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553869948822-fnkp25ml22hb7ecrkjj01e3s5vd9a0ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553869948822:android:472e9de182f3eb19498fb7",
+        "android_client_info": {
+          "package_name": "com.longgcd.chatrealtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553869948822-fnkp25ml22hb7ecrkjj01e3s5vd9a0ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85CXn-P8MfuHMDT5BPdQlNRCvB2AYGLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553869948822-fnkp25ml22hb7ecrkjj01e3s5vd9a0ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
